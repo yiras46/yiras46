@@ -3,3 +3,5 @@
 - 👀 I’m interested in Mobile Applications
 
 - 🌱 I’m currently learning JetPack Compose & SwifUI
+
+- Where to find me -> [Linkedin](https://www.linkedin.com/in/jose-fernandez-mazaira/) 
