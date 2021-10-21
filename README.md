@@ -16,6 +16,9 @@ I'm a professional software developer for more than ten years.
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 </br>
+[![Jira](https://img.shields.io/badge/Jira-007396?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
+[![Scrum](https://img.shields.io/badge/Scrum-green?style=for-the-badge&logo=agile)]()
+</br>
 And more...
 
 ## Find me at:
